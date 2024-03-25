@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/Tools-Postman-f56835?logo=postman" />
 </div>
 
+## Projects
+Other projects which some are not listed in this github or in a private repo are shown [here](https://www.canva.com/design/DAF_NXOKgHY/zV3iPp3pMqkKyEvYWC_oiw/edit?utm_content=DAF_NXOKgHY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 <hr>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darrellcr&theme=dark&border_radius=5" />
