@@ -37,7 +37,8 @@ Other projects which some are not listed in this github or in a private repo are
 <hr>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darrellcr&theme=dark&border_radius=5" />
 <hr>
-[![](https://visitcount.itsvg.in/api?id=Darrellcr&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://visitcount.itsvg.in/api?id=Darrellcr&icon=0&color=0" />
+
 
 <!--
 **Darrellcr/Darrellcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
