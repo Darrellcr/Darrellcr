@@ -1,6 +1,6 @@
 ## Hi there, I'm Darrell Cornelius Rivaldo 👋
 
-- 🏫 I'm a third year student at Petra Christian University majoring in Data Science. 
+- 🏫 I'm a final year student at Petra Christian University majoring in Data Science. 
 - 👁️ I'm interested in fullstack web development and data science.
   
 ## 💼 Technical Skills
