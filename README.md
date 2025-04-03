@@ -2,6 +2,7 @@
 
 - 🏫 I'm a final year student at Petra Christian University majoring in Data Science. 
 - 👁️ I'm interested in fullstack web development and data science.
+- 🧑‍🔬 I'm currently researching about distributed deep learning using kubernetes
   
 ## 💼 Technical Skills
 <div>
@@ -29,6 +30,8 @@
   <img src="https://img.shields.io/badge/Tools-Git-e84e31?logo=git" />
   <img src="https://img.shields.io/badge/Tools-Github-2f2f2f?logo=github" />
   <img src="https://img.shields.io/badge/Tools-Postman-f56835?logo=postman" />
+  <img src="https://img.shields.io/badge/Tools-Kubernetes-326ce5?logo=kubernetes">
+  <img src="https://img.shields.io/badge/Tools-tmux-1cb920?logo=tmux">
 </div>
 
 ## Projects
@@ -36,8 +39,7 @@ Other projects which some are not listed in this github or in a private repo are
 
 <hr>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darrellcr&theme=dark&border_radius=5" />
-<hr>
-<img src="https://visitcount.itsvg.in/api?id=Darrellcr&icon=0&color=0" />
+
 
 
 <!--
